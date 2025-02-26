@@ -35,7 +35,7 @@ Sample Output
 100
 125
 */
-package com.aula;
+package com.easy;
 import java.util.Scanner;
 
 public class Solution02 {
